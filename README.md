@@ -1,6 +1,10 @@
 # TP N°5 de JavaScript 🚀
 
-Se realiza el ejercicio numero 4 del TP 5 de JS
+Crear una web con un reloj
+
+## Link de netlify
+
+https://ejercicio-bom-4.netlify.app/
 
 ## Pre-requisitos 📋
 
@@ -18,7 +22,7 @@ Cosas que se necesitan tener instaladas o configuradas previamente para utilizar
 En una terminal usar el siguiente comando
 
 ```
-git clone https://github.com/GeroCossio/Ejercicio-BOM-4.git
+git clone https://github.com/GeroCossio/Ejercicio-BOM-5.git
 ```
 
 ## Autor 👩‍💻
