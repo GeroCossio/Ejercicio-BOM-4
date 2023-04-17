@@ -1,6 +1,6 @@
 # TP N°5 de JavaScript 🚀
 
-Se realiza el ejercicio numero 3 del TP 5 de JS
+Se realiza el ejercicio numero 4 del TP 5 de JS
 
 ## Pre-requisitos 📋
 
