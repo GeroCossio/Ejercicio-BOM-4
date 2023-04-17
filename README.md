@@ -18,7 +18,7 @@ Cosas que se necesitan tener instaladas o configuradas previamente para utilizar
 En una terminal usar el siguiente comando
 
 ```
-git clone https://github.com/GeroCossio/Ejercicio-DOM-4.git
+git clone https://github.com/GeroCossio/Ejercicio-BOM-4.git
 ```
 
 ## Autor 👩‍💻
